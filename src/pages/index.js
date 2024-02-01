@@ -7,6 +7,7 @@ import stayCategories from "../../public/data/stayCategories.json";
 import SmallCard from "@/components/SmallCard";
 import MediumCard from "@/components/MediumCard";
 import LargeCard from "@/components/LargeCard";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -48,6 +49,7 @@ export default function Home() {
           buttonText="Get Inspired"
         />
       </main>
+      <Footer />
     </div>
   );
 }
