@@ -43,7 +43,7 @@ export default function Home() {
         </section>
 
         <LargeCard
-          img="http://links.papareact.com/4cj"
+          img="https://links.papareact.com/4cj"
           title="The Greatest Outdoors"
           description="Wishlists curated by Airbnb."
           buttonText="Get Inspired"

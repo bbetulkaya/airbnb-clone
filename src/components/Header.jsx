@@ -12,7 +12,7 @@ const Header = () => {
       {/* Left */}
       <div className="relative flex items-start h-10 cursor-pointer my-auto">
         <Image
-          src="http://links.papareact.com/qd3"
+          src="https://links.papareact.com/qd3"
           fill
           alt="airbnb logo"
           objectFit="contain"
